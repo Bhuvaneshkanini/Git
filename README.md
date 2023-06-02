@@ -5,6 +5,7 @@
 -----------------------------------------------------
 1.Create local branch:
 git branch <new-branch-name>
+  
 i.e)git branch Check
 
 2.Push the Branch into Remote
