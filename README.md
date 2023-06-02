@@ -9,6 +9,7 @@ $git branch <#new-Branch-name>
   
 i.e)$git branch Check-brach
 
+
 2.Push the Branch into Remote
 
 $git push --set-upstream origin <#Branch-name>
