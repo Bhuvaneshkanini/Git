@@ -5,7 +5,7 @@
 -----------------------------------------------------
 1.Create local branch:
 
-git branch <<#new-Branch-name>>
+git branch <#new-Branch-name>
   
 i.e)git branch Check-brach
 
