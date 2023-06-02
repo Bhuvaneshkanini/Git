@@ -5,12 +5,15 @@ To Create a Branch
 -----------------------------------------------------
 1.Create local branch:
 
-git branch <#new-Branch-name>
+$git branch <#new-Branch-name>
   
-i.e)git branch Check-brach
+i.e)$git branch Check-brach
 
 2.Push the Branch into Remote
-git push --set-upstream origin my-branch
+
+$git push --set-upstream origin <#Branch-name>
+
+i.e)$git push --set-upstream origin new-Branch-name
 
 ------------------------------------------------------
 To Delete the Branch
