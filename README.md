@@ -1,7 +1,7 @@
 # Git
 
 -----------------------------------------------------
-#To Create a Branch
+To Create a Branch
 -----------------------------------------------------
 1.Create local branch:
 
@@ -13,7 +13,7 @@ i.e)git branch Check-brach
 git push --set-upstream origin my-branch
 
 ------------------------------------------------------
-#To Delete the Branch
+To Delete the Branch
 ------------------------------------------------------
 1.Delete the Branch in Local
 $ git branch -d <branch-name>
