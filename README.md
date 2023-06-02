@@ -4,9 +4,9 @@
 #To Create a Branch
 -----------------------------------------------------
 1.Create local branch:
+
 git branch <new-branch-name>
-  
-i.e)git branch Check
+i.e)git branch Check-brach
 
 2.Push the Branch into Remote
 git push --set-upstream origin my-branch
