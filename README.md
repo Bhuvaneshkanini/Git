@@ -6,9 +6,7 @@ To Create a Branch
 1.Create local branch:
 
   
-     $ git checkout main
-  $git branch <new-Branch-name>
-  
+     $ git branch <new-Branch-name>
   
 $git branch Check-brach
  
