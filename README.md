@@ -23,10 +23,11 @@ git checkout main
 
 git merge <branch-name>
 
-i.e) 
+i.e) Swith to main branch
   
      $ git checkout main
   
+  Merge the new branch to main
      $ git merge new-branch
 
   
