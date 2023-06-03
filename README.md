@@ -21,15 +21,15 @@ To Merge the Branch to main
 ------------------------------------------------------
 git checkout main
 
-git merge <branch-name>
+git merge 
 
-i.e) Swith to main branch
+i.e) Switch to main branch
   
      $ git checkout main
   
   Merge the new branch to main
   
-     $ git merge new-branch
+     $ git merge <branch-name>
 
   
 ------------------------------------------------------
