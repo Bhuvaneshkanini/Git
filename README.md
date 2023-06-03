@@ -7,7 +7,7 @@ To Create a Branch
 
 $git branch <#new-Branch-name>
   
-i.e)$git branch Check-brach
+$git branch Check-brach
  
  
 2.Push the Branch into Remote
