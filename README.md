@@ -19,11 +19,8 @@ i.e)$git push --set-upstream origin new-Branch-name
 ------------------------------------------------------
 To Merge the Branch to main
 ------------------------------------------------------
-git checkout main
 
-git merge 
-
-i.e) Switch to main branch
+ Switch to main branch
   
      $ git checkout main
   
