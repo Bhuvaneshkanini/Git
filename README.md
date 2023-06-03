@@ -23,7 +23,9 @@ git checkout main
 
 git merge <branch-name>
 
-i.e) $ git checkout main
+i.e) 
+  
+     $ git checkout main
   
      $ git merge new-branch
 
