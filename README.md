@@ -28,6 +28,7 @@ i.e) Swith to main branch
      $ git checkout main
   
   Merge the new branch to main
+  
      $ git merge new-branch
 
   
