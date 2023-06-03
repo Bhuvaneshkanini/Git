@@ -7,15 +7,10 @@ To Create a Branch
 
   
      $ git branch <new-Branch-name>
-  
-     $git branch Check-brach
- 
- 
+
 2.Push the Branch into Remote
 
-$git push --set-upstream origin <#Branch-name>
-
-i.e)$git push --set-upstream origin new-Branch-name
+     $ git push --set-upstream origin <Branch-name>
 
 ------------------------------------------------------
 To Merge the Branch to main
