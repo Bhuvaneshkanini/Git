@@ -17,6 +17,18 @@ $git push --set-upstream origin <#Branch-name>
 i.e)$git push --set-upstream origin new-Branch-name
 
 ------------------------------------------------------
+To Merge the Branch to main
+------------------------------------------------------
+git checkout main
+
+git merge <branch-name>
+
+i.e) $ git checkout main
+  
+     $ git merge new-branch
+
+  
+------------------------------------------------------
 To Delete the Branch
 ------------------------------------------------------
 1.Delete the Branch in Local
