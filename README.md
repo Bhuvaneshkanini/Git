@@ -30,12 +30,9 @@ To Delete the Branch
 ------------------------------------------------------
 1.Delete the Branch in Local
 
-$ git branch -d <#branch-name>
-
-i.e)$ git branch -d new-branch-name
+     $ git branch -d <branch-name>
 
 2.Delete the Branch in remote
 
-$ git push origin --delete <#branch-name>
+     $ git push origin --delete <branch-name>
   
-i.e)$ git push origin --delete new-branch-name
